@@ -1,2 +1,2 @@
-# HelloWorld
-first code
+# first line code HelloWorld
+print ("Hello,World!")
